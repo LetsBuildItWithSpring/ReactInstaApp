@@ -1,0 +1,27 @@
+.Login-Container table input ,.Login-Container table button{
+    font-size: 15px;
+    padding: 5px;
+    margin: 5 px;
+}
+
+.Login-Container table button{
+    background-color: cyan;
+}
+body {
+    background-color: white;
+    margin: 0;
+  }
+  main {
+    background-color: green;
+    height: 100%;
+    display: grid;
+    grid-template-columns: 500px auto;
+  }
+  aside {
+    height: 100%;
+    background-color: white;
+  }
+  section {
+    height: 100%;
+    background-color: white;
+  }
